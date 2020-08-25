@@ -9,4 +9,4 @@ Now I'll tell you a little bit about the Mark Down
 >  This tag is for the title and text format (#)
 ---
 
-##gitup They use a number of tools that use the features they use to create content on gitu
+## gitup They use a number of tools that use the features they use to create content on gitu
