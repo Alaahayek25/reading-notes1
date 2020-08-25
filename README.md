@@ -12,3 +12,10 @@
 * getting out of my comfort zone
 - I won't stop
 - be strong
+---
+- I am Alaa Al-Hayek
+
+from Daraa. I studied accounting diploma at Toledo College and after that I worked as a salesman for years and also I have volunteered with many humanitarian organizations for five years ago.
+
+Currently, I aspire to be a Full Stack and pass on what I have learned to others and impact their lives for the better.
+(My GitHub)[ https://github.com/Alaahayek25]
