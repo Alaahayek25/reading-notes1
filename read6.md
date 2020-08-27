@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # the computers
 1. it woud need to take input 
 2. store information
@@ -9,4 +10,6 @@
 ** And an 8-bit adder could be as big as a fridge, and it would take minutes for them to perform a simple calculation. 
 
 ---
+=======
+>>>>>>> d1b28f5a48a6102c28164019044dad2d73e7860a
 
